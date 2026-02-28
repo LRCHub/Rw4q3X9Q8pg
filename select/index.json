@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "São Paulo",
+  "base_artist": "Chic",
+  "createdAt": "2026-02-28T06:31:45.855648Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sao Paulo",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/01_Sao_Paulo_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sao Paulo",
+      "artist": "Guillemots",
+      "has_synced": true,
+      "path": "select/02_Sao_Paulo_Guillemots.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A boba fui eu - Recorded At Mosh Studios, São Paulo",
+      "artist": "LUDMILLA",
+      "has_synced": true,
+      "path": "select/03_A_boba_fui_eu_-_Recorded_At_Mosh_Studios,_São_Paulo_LUDMILLA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Faz uma loucura por mim - Recorded At Mosh Studios, São Paulo",
+      "artist": "LUDMILLA",
+      "has_synced": true,
+      "path": "select/04_Faz_uma_loucura_por_mim_-_Recorded_At_Mosh_Studios,_São_Paulo_LUDMILLA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mil Anos - Recorded At Mosh Studios, São Paulo",
+      "artist": "Jorge & Mateus",
+      "has_synced": true,
+      "path": "select/05_Mil_Anos_-_Recorded_At_Mosh_Studios,_São_Paulo_Jorge_&_Mateus.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Quase Sem Querer - Recorded At Mosh Studios, São Paulo",
+      "artist": "Jorge & Mateus",
+      "has_synced": true,
+      "path": "select/06_Quase_Sem_Querer_-_Recorded_At_Mosh_Studios,_São_Paulo_Jorge_&_Mateus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "São Paulo",
+      "artist": "Yuri Nr5",
+      "has_synced": true,
+      "path": "select/07_São_Paulo_Yuri_Nr5.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sao Paulo - Live At The Union Chapel",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/08_Sao_Paulo_-_Live_At_The_Union_Chapel_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "As Coisas Tão Mais Lindas - Ao Vivo Em São Paulo / 2007",
+      "artist": "Nando Reis",
+      "has_synced": true,
+      "path": "select/09_As_Coisas_Tão_Mais_Lindas_-_Ao_Vivo_Em_São_Paulo___2007_Nando_Reis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "As Coisas Tão Mais Lindas (Ao Vivo Em São Paulo / 2007)",
+      "artist": "Nando Reis",
+      "has_synced": true,
+      "path": "select/10_As_Coisas_Tão_Mais_Lindas_(Ao_Vivo_Em_São_Paulo___2007)_Nando_Reis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Madri - Gravado na Deezer, São Paulo",
+      "artist": "Fernando & Sorocaba",
+      "has_synced": false,
+      "path": "select/11_Madri_-_Gravado_na_Deezer,_São_Paulo_Fernando_&_Sorocaba.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Metal Contra As Nuvens - Ao Vivo Em São Paulo / 1999",
+      "artist": "Legião Urbana",
+      "has_synced": false,
+      "path": "select/12_Metal_Contra_As_Nuvens_-_Ao_Vivo_Em_São_Paulo___1999_Legião_Urbana.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Só Posso Dizer (São Paulo)",
+      "artist": "Nando Reis",
+      "has_synced": true,
+      "path": "select/13_Só_Posso_Dizer_(São_Paulo)_Nando_Reis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sao Paulo Sunrise",
+      "artist": "Nektar",
+      "has_synced": false,
+      "path": "select/14_Sao_Paulo_Sunrise_Nektar.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sereníssima - Ao Vivo Em São Paulo / 1999",
+      "artist": "Legião Urbana",
+      "has_synced": true,
+      "path": "select/15_Sereníssima_-_Ao_Vivo_Em_São_Paulo___1999_Legião_Urbana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sao Paulo",
+      "artist": "Chic",
+      "has_synced": false,
+      "path": "select/pl_01_Sao_Paulo_Chic.txt"
+    }
+  ]
+}
